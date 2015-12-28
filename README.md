@@ -29,4 +29,4 @@ Most conversations in the Consortium are open for participation by default, but 
 
 - [Dominic Tarr](https://github.com/dominictarr)
 - [Paul Frazee](https://github.com/pfraze)
-
+- [Mix Irving](https://github.com/mixmix)
